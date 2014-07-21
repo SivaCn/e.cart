@@ -1,0 +1,4 @@
+# Exclude files from the GIT Track
+
+# Environmental Setups
+usr/

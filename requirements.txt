@@ -1,0 +1,5 @@
+# Python Module Requirements
+
+sqlalchemy
+jinja
+flask
