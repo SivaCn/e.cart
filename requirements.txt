@@ -1,5 +1,6 @@
 # Python Module Requirements
 
-sqlalchemy
-jinja
-flask
+sqlalchemy==0.9.6
+jinja==1.2
+flask==0.10.1
+flask_login==0.2.11
